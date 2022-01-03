@@ -1,0 +1,29 @@
+{
+  "name": "blog-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heloo1/node_js-blog.git"
+  },
+  "keywords": [
+    "f8"
+  ],
+  "bugs": {
+    "url": "https://github.com/heloo1/node_js-blog/issues"
+  },
+  "homepage": "https://github.com/heloo1/node_js-blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
